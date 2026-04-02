@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @parth1396
-- 👀 I’m interested in Atmospheric Science
+- 👀 I’m working in Atmospheric Science
 - 🌱 I’m currently learning Python
 - 
 
